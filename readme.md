@@ -62,7 +62,7 @@ Turn to a partner and discuss reasons of why would you write tests beforehand?
 
 ### TDD Overview: (5 min, 0:20)
 
-![TDD Example](http://joshldavis.com/img/tdd-vs-bdd/tdd-flowchart.png)
+![TDD Example](https://joshldavis.com/img/tdd-vs-bdd/tdd-flowchart.png)
 
 **Benefits**
 
@@ -87,6 +87,12 @@ Turn to a partner and discuss reasons of why would you write tests beforehand?
 RSpec makes it easier to write tests.  It's a Domain Specific Language for writing live specifications about your code.  It was released on May 18, 2007, so it's been around for a while.  It is the defacto testing framework.
 
 > DSL: "Domain Specific Language" that is created specifically to solve problems in a particular domain and is not intended to be able to solve problems outside it
+
+**To install RSpec globally**
+
+```bash
+$ gem install rspec
+```
 
 ---
 ### We-Do: RSpec Example (5 min, 0:30)
